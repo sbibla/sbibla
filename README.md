@@ -1,5 +1,5 @@
 - 🕺🏻 Hi, I’m @sbibla
-- AI/ML,Telco☎️3D🖨,DSP🔊🏞,👄NLP,⚙️Operations,Games
+- GenAI,RAG,Telco☎️3D🖨,DSP🔊🏞,👄NLP,⚙️Operations,Games
 - 📫 How to reach me saar.bibla@gmail.com
 
 <!---
