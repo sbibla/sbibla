@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @sbibla
 
-🚀 Senior Software Architect @ Accenture | Enterprise AI & GenAI Solutions Expert  
+🚀 Senior Software Architect @ Accenture | Enterprise Agentic AI & GenAI Solutions Expert  
 
 I design and deliver **enterprise-grade agentic AI systems** that help organizations leverage the power of Generative AI for real-world business outcomes. My focus is on **reference architectures, scalable platforms, and production-ready solutions** that enable companies to build and operate **agentic applications** with confidence.
 
