@@ -25,7 +25,7 @@ I design and deliver **enterprise-grade agentic AI systems** that help organizat
 
 ## 📈 Highlights
 - Delivered **reference architectures** to Fortune 500 companies accelerating their AI adoption.  
-- 2+ years hands-on experience with **RAG pipelines and GenAI architectures** across multiple industries.  
+- 2+ years hands-on experience with **Agentic, RAG pipelines and GenAI architectures** across multiple industries.  
 - Proven expertise in **tuning LLMs** to meet strict enterprise reliability, compliance, and performance needs.  
 
 ---
