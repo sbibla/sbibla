@@ -2,20 +2,23 @@
 
 🚀 Senior Software Architect @ Accenture | Enterprise Agentic AI & GenAI Solutions Expert  
 
-I design and deliver **enterprise-grade agentic AI systems** that help organizations leverage the power of Generative AI for real-world business outcomes. My focus is on **reference architectures, scalable platforms, and production-ready solutions** that enable companies to build and operate **agentic applications** with confidence.
+I design and deliver **enterprise-grade agentic AI systems** that help organizations leverage the power of AI for real-world business outcomes. My focus is on **reference architectures, scalable platforms, and production-ready solutions** that enable companies to build and operate **agentic applications** with confidence.
 
 ---
 
 ## 💡 What I Do
-- **Enterprise Agentic AI Architectures** – designing modular, extensible frameworks for building autonomous agents at scale.  
+- **Enterprise Agentic AI Architectures** – designing modular, extensible frameworks for building autonomous agents at scale.
+- **From Agentic POC to Prodcution Ready** - transforming early-stage agentic prototypes into secure, scalable, and fully operational enterprise solutions, with production-grade architecture, governance, evals, observability, and long-term maintainability built in.
 - **Generative AI in Production** – shaping RAG-based (Retrieval-Augmented Generation) pipelines that deliver reliable, context-aware AI.  
-- **LLM Tuning & Optimization** – applying prompt engineering, fine-tuning, and parameter-efficient methods to align models with enterprise needs.  
+- **LLM Tuning & Optimization** – applying prompt engineering, fine-tuning, and parameter-efficient methods to align models with enterprise needs.
+- **AI Evals**, Responsibility, and Scale: implementing enterprise-grade evaluation frameworks, responsible AI practices, and scalable patterns that ensure AI systems are safe, governed, and production ready.
 - **Advisory & Strategy** – guiding leadership teams on AI adoption, platform decisions, and long-term GenAI roadmaps.  
 
 ---
 
 ## 🔧 Expertise
-- **Architectures**: Reference models for enterprise AI, multi-agent orchestration, hybrid cloud AI platforms.  
+- **Architectures**: Reference models for enterprise AI, multi-agent orchestration, hybrid cloud AI platforms.
+- **Agentic AI Stack**: hands-on experience with leading agent frameworks and orchestration tools, Agentcore, Strands, LangChain, ADK, OpenAI Assistants, AWS Bedrock Agents, and custom multi-agent platforms built for enterprise scale.
 - **GenAI Stack**: RAG, vector databases, embedding strategies, multi-modal LLM integration.  
 - **LLM Ops**: Tuning, evaluation, monitoring, guardrails, and deployment pipelines.  
 - **Delivery**: Numerous **RAG AI applications** delivered across **finance** (fraud detection, knowledge assistants, compliance) and **healthcare** (clinical insights, knowledge retrieval, patient experience).  
