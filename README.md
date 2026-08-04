@@ -2,7 +2,9 @@
 
 🚀 Senior Software Architect @ Accenture | Enterprise Agentic AI & GenAI Solutions Expert  
 
-As a Sr. FDE architect, I design and deliver **enterprise-grade agentic AI systems** that help organizations leverage the power of AI for real-world business outcomes. My focus is on building **production ready agentuc solutions, scalable platforms**, and helping clients adoption of AI via building **Agentic reference architectures and moving agentic POC to production**, to ensure clients build and operate **agentic applications** with confidence.
+As a Sr. FDE architect, I work on building production-grade AI systems—where model quality is only one part of the job. The real work is designing reliable data and evaluation loops, handling drift, guardrails, shipping safe deployments, and integrating AI into real product constraints.
+
+I design and deliver **enterprise-grade agentic AI systems** that help organizations leverage the power of AI for real-world business outcomes. My focus is on building **production ready agentuc solutions, scalable platforms**, and helping clients adoption of AI via building **Agentic reference architectures and moving agentic POC to production**, to ensure clients build and operate **agentic applications** with confidence.
 
 ---
 
